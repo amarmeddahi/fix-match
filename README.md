@@ -1,5 +1,5 @@
 # FixMatch
-FixMatch is a semi-supervised deep learning algorithm for image classification tasks. This repository provides a Python implementation of the FixMatch algorithm. This repository is a Python implementation of the Semi-supervised FixMatch algorithm using Tensorflow. The implementation uses the CIFAR10 dataset and includes the following steps:
+FixMatch is a semi-supervised deep learning algorithm for image classification tasks. This repository provides a Python implementation using Tensorflow of the FixMatch algorithm. The implementation uses the CIFAR10 dataset and includes the following steps:
 
 # Notebook description
 
@@ -21,4 +21,4 @@ To run the code, simply run the FixMatch.ipynb Jupyter notebook.
 The results of the baseline and FixMatch algorithms are shown in the notebook and compared. The FixMatch algorithm can significantly improve the accuracy on the test set.
 
 # Credits
-This implementation is based on the paper "FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence" by Soeren Pirk et al. (https://arxiv.org/abs/2001.07685)
+This implementation is based on the paper "FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence" by Soeren Pirk et al.
